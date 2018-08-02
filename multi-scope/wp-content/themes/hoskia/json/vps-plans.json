@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Basic",
+        "price": "$ 19.99",
+        "icon": "fa-server",
+        "cpu": "1 CORE",
+        "memory": "1 GB",
+        "hard_disk": "100 GB",
+        "ip": "1 (Up To)",
+        "live_chat": "No",
+        "monitoring": "No",
+        "bandwidth": "100 GB",
+        "setup": "FREE",
+        "url": "http://billing.ywhmcs.com/cart.php?systpl=SSDCloud01&a=add&pid=12"
+    },
+    {
+        "title": "Personal",
+        "price": "$ 29.99",
+        "icon": "fa-database",
+        "cpu": "2 CORE",
+        "memory": "2 GB",
+        "hard_disk": "200 GB",
+        "ip": "2 (Up To)",
+        "live_chat": "Yes",
+        "monitoring": "Yes",
+        "bandwidth": "200 GB",
+        "setup": "FREE",
+        "url": "http://billing.ywhmcs.com/cart.php?systpl=SSDCloud01&a=add&pid=13"
+    },
+    {
+        "title": "Professional",
+        "price": "$ 39.99",
+        "icon": "fa-hdd-o",
+        "cpu": "3 CORE",
+        "memory": "3 GB",
+        "hard_disk": "300 GB",
+        "ip": "3 (Up To)",
+        "live_chat": "Yes",
+        "monitoring": "Yes",
+        "bandwidth": "300 GB",
+        "setup": "FREE",
+        "url": "http://billing.ywhmcs.com/cart.php?systpl=SSDCloud01&a=add&pid=14"
+    },
+    {
+        "title": "Business",
+        "price": "$ 49.99",
+        "icon": "fa-server",
+        "cpu": "4 CORE",
+        "memory": "4 GB",
+        "hard_disk": "400 GB",
+        "ip": "4 (Up To)",
+        "live_chat": "Yes",
+        "monitoring": "Yes",
+        "bandwidth": "400 GB",
+        "setup": "FREE",
+        "url": "http://billing.ywhmcs.com/cart.php?systpl=SSDCloud01&a=add&pid=15"
+    },
+    {
+        "title": "Enterprise",
+        "price": "$ 59.99",
+        "icon": "fa-database",
+        "cpu": "5 CORE",
+        "memory": "5 GB",
+        "hard_disk": "500 GB",
+        "ip": "5 (Up To)",
+        "live_chat": "Yes",
+        "monitoring": "Yes",
+        "bandwidth": "500 GB",
+        "setup": "FREE",
+        "url": "http://billing.ywhmcs.com/cart.php?systpl=SSDCloud01&a=add&pid=16"
+    }
+]

@@ -1,0 +1,9 @@
+.ocdi__demo-import-notice:not(:empty) {
+	background-color: transparent;
+	border-left: 0px;
+	box-shadow: none;
+	padding: 0px;
+}
+.ocdi__demo-import-notice img {
+	border: 4px solid #dbe3ea;
+}

@@ -1,0 +1,1342 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hoskia Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-08 09:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: hoskia-elements/counter.php:139
+msgid " Border Color"
+msgstr ""
+
+#: hoskia-elements/counter.php:145
+msgid " Box Background Color"
+msgstr ""
+
+#: hoskia-elements/feature-v2.php:124 hoskia-elements/feature.php:132
+#: hoskia-elements/services-tab.php:180
+msgid " Description Color"
+msgstr ""
+
+#: hoskia-elements/pricing.php:172
+msgid " Features Color"
+msgstr ""
+
+#: hoskia-elements/service.php:141
+msgid " Icon Border Color"
+msgstr ""
+
+#: hoskia-elements/feature.php:120
+msgid " Icon Box Color"
+msgstr ""
+
+#: hoskia-elements/feature-v2.php:112 hoskia-elements/feature.php:114
+#: hoskia-elements/pricing.php:166 hoskia-elements/service.php:135
+#: hoskia-elements/services-tab.php:168
+msgid " Icon Color"
+msgstr ""
+
+#: hoskia-elements/counter.php:133
+msgid " Number Color"
+msgstr ""
+
+#: hoskia-elements/pricing.php:184
+msgid " Price Color"
+msgstr ""
+
+#: hoskia-elements/domain-extension.php:69 hoskia-elements/service.php:147
+msgid " Text Color"
+msgstr ""
+
+#: hoskia-elements/counter.php:127 hoskia-elements/feature-v2.php:118
+#: hoskia-elements/feature.php:126 hoskia-elements/pricing.php:178
+#: hoskia-elements/services-tab.php:174
+msgid " Title Color"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:90 hoskia-elements/testimonial.php:94
+msgid "1"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:91 hoskia-elements/testimonial.php:95
+msgid "1.5"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:92 hoskia-elements/testimonial.php:96
+msgid "2"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:93 hoskia-elements/testimonial.php:97
+msgid "2.5"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:94 hoskia-elements/testimonial.php:98
+msgid "3"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:95 hoskia-elements/testimonial.php:99
+msgid "3.5"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:96 hoskia-elements/testimonial.php:100
+msgid "4"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:97 hoskia-elements/testimonial.php:101
+msgid "4.5"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:98 hoskia-elements/testimonial.php:102
+msgid "5"
+msgstr ""
+
+#: inc/about-widget.php:86
+msgid "About"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/about-widget.php:27
+msgid "About Widget"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:177
+#: hoskia-elements/horizontal-table-tab.php:103
+#: hoskia-elements/horizontal-table-tab.php:171
+#: hoskia-elements/pricing-feature-list.php:118
+#: hoskia-elements/pricing-filter.php:102 hoskia-elements/pricing.php:97
+msgid "Active"
+msgstr ""
+
+#: hoskia-elements/hoskia-section.php:71
+msgid "Active Overlay"
+msgstr ""
+
+#: inc/about-widget.php:30
+msgid "Add footer About Content"
+msgstr ""
+
+#: hoskia-elements/counter.php:118 hoskia-elements/domain-extension.php:60
+#: hoskia-elements/domain-search.php:60 hoskia-elements/feature-v2.php:103
+#: hoskia-elements/feature.php:105 hoskia-elements/gallery.php:93
+#: hoskia-elements/hoskia-section.php:93 hoskia-elements/pricing.php:157
+#: hoskia-elements/section-heading.php:160 hoskia-elements/services-tab.php:159
+#: hoskia-elements/single-img.php:78 hoskia-elements/team-slider.php:108
+#: hoskia-elements/testimonial.php:119
+msgid "Animation Style"
+msgstr ""
+
+#: hoskia-elements/hoskia-section.php:66
+msgid "Background Bottom Position"
+msgstr ""
+
+#: hoskia-elements/hoskia-section.php:83
+msgid "Background Opacity"
+msgstr ""
+
+#: hoskia-elements/hoskia-section.php:76
+msgid "Background Overlay Color"
+msgstr ""
+
+#: hoskia-vc-shortcode-param/hoskia-font-container-param.php:183
+msgid "Bold"
+msgstr ""
+
+#: hoskia-elements/counter.php:102
+msgid "Border"
+msgstr ""
+
+#: hoskia-elements/service-type.php:49
+msgid "Bordered"
+msgstr ""
+
+#: hoskia-elements/domain-search.php:75
+msgid "Button Background Color"
+msgstr ""
+
+#: hoskia-elements/service.php:159
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: hoskia-elements/service.php:153
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: hoskia-elements/datacenter.php:70 hoskia-elements/text-area.php:54
+msgid "Button Label"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:222
+#: hoskia-elements/horizontal-table-tab.php:241
+#: hoskia-elements/horizontal-table.php:49
+#: hoskia-elements/horizontal-table.php:96
+#: hoskia-elements/pricing-feature-list.php:152
+#: hoskia-elements/pricing-filter.php:140 hoskia-elements/pricing.php:139
+#: hoskia-elements/service.php:117
+msgid "Button Text"
+msgstr ""
+
+#: hoskia-elements/domain-search.php:81 hoskia-elements/pricing.php:190
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/about-widget.php:147
+msgid "Button Text:"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:229
+#: hoskia-elements/horizontal-table-tab.php:247
+#: hoskia-elements/horizontal-table.php:102
+msgid "Button URL"
+msgstr ""
+
+#: hoskia-elements/datacenter.php:76 hoskia-elements/horizontal-table.php:55
+#: hoskia-elements/pricing-feature-list.php:162
+#: hoskia-elements/pricing-filter.php:146 hoskia-elements/pricing.php:145
+#: hoskia-elements/service.php:123 hoskia-elements/text-area.php:61
+msgid "Button Url"
+msgstr ""
+
+#: inc/about-widget.php:151
+msgid "Button Url:"
+msgstr ""
+
+#: hoskia-template/single-gallery.php:76
+msgid "Category"
+msgstr ""
+
+#: hoskia-elements/map.php:42 hoskia-elements/map.php:49
+msgid "Center Marker"
+msgstr ""
+
+#: inc/about-widget.php:135 inc/subscribe-widget.php:139
+msgid "Change Image"
+msgstr ""
+
+#: hoskia-elements/counter.php:40 hoskia-elements/service-type.php:39
+#: hoskia-elements/service.php:39
+msgid "Choose Style"
+msgstr ""
+
+#: hoskia-elements/counter.php:50 hoskia-elements/counter.php:120
+#: hoskia-elements/domain-extension.php:62 hoskia-elements/domain-search.php:62
+#: hoskia-elements/feature-v2.php:47 hoskia-elements/feature-v2.php:105
+#: hoskia-elements/feature.php:43 hoskia-elements/feature.php:50
+#: hoskia-elements/feature.php:57 hoskia-elements/feature.php:107
+#: hoskia-elements/gallery.php:95 hoskia-elements/hoskia-section.php:95
+#: hoskia-elements/pricing-feature-list.php:49 hoskia-elements/pricing.php:43
+#: hoskia-elements/pricing.php:159 hoskia-elements/section-heading.php:162
+#: hoskia-elements/service.php:59 hoskia-elements/services-tab.php:43
+#: hoskia-elements/services-tab.php:161 hoskia-elements/single-img.php:80
+#: hoskia-elements/team-slider.php:110 hoskia-elements/testimonial.php:121
+msgid "Choose your animation style"
+msgstr ""
+
+#: hoskia-elements/gallery.php:59 hoskia-elements/pricing-feature-list.php:175
+#: hoskia-elements/pricing-filter.php:41
+msgid "Column"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:32
+msgid "ComingSoon"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:69 hoskia-elements/comingsoon.php:76
+#: hoskia-elements/comingsoon.php:83 hoskia-elements/comingsoon.php:90
+#: hoskia-elements/comingsoon.php:97 hoskia-elements/comingsoon.php:104
+#: hoskia-elements/comingsoon.php:109 hoskia-elements/feature-tab.php:199
+#: hoskia-elements/horizontal-table-tab.php:213
+#: hoskia-elements/horizontal-table.php:88
+msgid "Content"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:205
+msgid "Content Type"
+msgstr ""
+
+#: hoskia-elements/counter.php:86
+msgid "Count Number"
+msgstr ""
+
+#: hoskia-elements/counter.php:32
+msgid "Counter"
+msgstr ""
+
+#: hoskia-elements/nav.php:32 hoskia-elements/nav.php:40
+msgid "Custom Nav"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:49 hoskia-elements/vps-slider.php:61
+msgid "Custom Order Button Text"
+msgstr ""
+
+#: hoskia-elements/datacenter.php:32
+msgid "Datacenter Slider"
+msgstr ""
+
+#: hoskia-core.php:102
+msgid "Date"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:156
+msgid "Default set font-size 14px, other auto."
+msgstr ""
+
+#: hoskia-elements/section-heading.php:128 hoskia-elements/text-area.php:90
+msgid "Default set font-size 36px, other auto."
+msgstr ""
+
+#: hoskia-elements/datacenter.php:64 hoskia-elements/faq.php:84
+#: hoskia-elements/services-tab.php:82 hoskia-elements/testimonial.php:86
+msgid "Description"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:102 hoskia-elements/feature-v2.php:89
+#: hoskia-elements/feature.php:93 hoskia-elements/service.php:111
+#: hoskia-elements/services-tab.php:147
+msgid "Descriptions"
+msgstr ""
+
+#: hoskia-elements/counter.php:114 hoskia-elements/counter.php:123
+#: hoskia-elements/counter.php:129 hoskia-elements/counter.php:135
+#: hoskia-elements/counter.php:141 hoskia-elements/counter.php:147
+#: hoskia-elements/datacenter.php:89 hoskia-elements/domain-extension.php:65
+#: hoskia-elements/domain-extension.php:71 hoskia-elements/domain-search.php:65
+#: hoskia-elements/domain-search.php:71 hoskia-elements/domain-search.php:77
+#: hoskia-elements/domain-search.php:83 hoskia-elements/faq.php:100
+#: hoskia-elements/feature-tab.php:118 hoskia-elements/feature-tab.php:239
+#: hoskia-elements/feature-v2.php:99 hoskia-elements/feature-v2.php:108
+#: hoskia-elements/feature-v2.php:114 hoskia-elements/feature-v2.php:120
+#: hoskia-elements/feature-v2.php:126 hoskia-elements/feature.php:101
+#: hoskia-elements/feature.php:110 hoskia-elements/feature.php:116
+#: hoskia-elements/feature.php:122 hoskia-elements/feature.php:128
+#: hoskia-elements/feature.php:134 hoskia-elements/gallery.php:98
+#: hoskia-elements/pricing.php:153 hoskia-elements/pricing.php:162
+#: hoskia-elements/pricing.php:168 hoskia-elements/pricing.php:174
+#: hoskia-elements/pricing.php:180 hoskia-elements/pricing.php:186
+#: hoskia-elements/pricing.php:192 hoskia-elements/section-heading.php:60
+#: hoskia-elements/section-heading.php:70
+#: hoskia-elements/section-heading.php:84
+#: hoskia-elements/section-heading.php:101
+#: hoskia-elements/section-heading.php:109
+#: hoskia-elements/section-heading.php:127
+#: hoskia-elements/section-heading.php:136
+#: hoskia-elements/section-heading.php:155
+#: hoskia-elements/section-heading.php:165 hoskia-elements/service-type.php:64
+#: hoskia-elements/service.php:131 hoskia-elements/service.php:137
+#: hoskia-elements/service.php:143 hoskia-elements/service.php:149
+#: hoskia-elements/service.php:155 hoskia-elements/service.php:161
+#: hoskia-elements/service.php:170 hoskia-elements/services-tab.php:155
+#: hoskia-elements/services-tab.php:164 hoskia-elements/services-tab.php:170
+#: hoskia-elements/services-tab.php:176 hoskia-elements/services-tab.php:182
+#: hoskia-elements/single-img.php:58 hoskia-elements/single-img.php:66
+#: hoskia-elements/single-img.php:74 hoskia-elements/single-img.php:83
+#: hoskia-elements/team-slider.php:97 hoskia-elements/team-slider.php:104
+#: hoskia-elements/team-slider.php:113 hoskia-elements/testimonial.php:115
+#: hoskia-elements/testimonial.php:124 hoskia-elements/text-area.php:71
+#: hoskia-elements/text-area.php:89 hoskia-elements/text-area.php:98
+#: hoskia-elements/text-area.php:106 hoskia-elements/vps-slider.php:187
+msgid "Design Option"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:62
+#: hoskia-elements/horizontal-table-tab.php:135
+msgid "Design Options"
+msgstr ""
+
+#: hoskia-elements/counter.php:112 hoskia-elements/datacenter.php:87
+#: hoskia-elements/faq.php:98 hoskia-elements/feature-tab.php:116
+#: hoskia-elements/feature-tab.php:237 hoskia-elements/feature-v2.php:97
+#: hoskia-elements/feature.php:99 hoskia-elements/hoskia-section.php:42
+#: hoskia-elements/pricing.php:151 hoskia-elements/service-type.php:62
+#: hoskia-elements/service.php:129 hoskia-elements/services-tab.php:153
+#: hoskia-elements/single-img.php:56 hoskia-elements/team-slider.php:95
+#: hoskia-elements/testimonial.php:113 hoskia-elements/text-area.php:69
+#: hoskia-elements/vps-slider.php:185
+msgid "Design Settings Options"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:75
+msgid "Designation"
+msgstr ""
+
+#: hoskia-elements/testimonial.php:79
+msgid "Designation/Address"
+msgstr ""
+
+#: hoskia-elements/domain-extension.php:31
+msgid "Domain Extension"
+msgstr ""
+
+#: hoskia-elements/domain-search.php:31
+msgid "Domain Search Form"
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:93
+#: hoskia-elements/pricing-filter.php:85 hoskia-elements/pricing.php:91
+msgid "Duration"
+msgstr ""
+
+#: hoskia-vc-shortcode-param/hoskia-font-container-param.php:80
+msgid "Element tag"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:122
+#: hoskia-elements/section-heading.php:150 hoskia-elements/text-area.php:84
+msgid "Enter font size."
+msgstr ""
+
+#: hoskia-elements/section-heading.php:123
+#: hoskia-elements/section-heading.php:151 hoskia-elements/text-area.php:85
+msgid "Enter line height."
+msgstr ""
+
+#: hoskia-elements/domain-search.php:130
+msgid "Enter Your Domain Name Here"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:245
+msgid "Enter Your E-mail Address"
+msgstr ""
+
+#: hoskia-elements/team-slider.php:61
+msgid "Expert In"
+msgstr ""
+
+#: hoskia-elements/domain-extension.php:44 hoskia-elements/domain-search.php:50
+msgid "Extension"
+msgstr ""
+
+#: hoskia-elements/domain-extension.php:39 hoskia-elements/domain-search.php:45
+msgid "Extensions"
+msgstr ""
+
+#: hoskia-elements/faq.php:32 hoskia-elements/faq.php:41
+msgid "Faq"
+msgstr ""
+
+#: hoskia-elements/faq.php:71
+msgid "Faq Content"
+msgstr ""
+
+#: hoskia-elements/feature.php:31 hoskia-elements/pricing-feature-list.php:134
+#: hoskia-elements/pricing-filter.php:119 hoskia-elements/pricing.php:121
+msgid "Feature"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:179 hoskia-elements/feature-tab.php:186
+#: hoskia-elements/feature-tab.php:194 hoskia-elements/feature-tab.php:201
+#: hoskia-elements/feature-tab.php:209 hoskia-elements/feature-tab.php:217
+#: hoskia-elements/feature-tab.php:224 hoskia-elements/feature-tab.php:231
+msgid "Feature Content"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:166
+msgid "Feature Content Element"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:137
+msgid "Feature Content Wrapper"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:80
+msgid "Feature Element Tab"
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:53
+msgid "Feature List Title"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:51
+msgid "Feature Tab"
+msgstr ""
+
+#: hoskia-elements/feature-v2.php:31
+msgid "Feature Version two"
+msgstr ""
+
+#: hoskia-elements/pricing-filter.php:114
+msgid "Features"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:164
+msgid "Features Value"
+msgstr ""
+
+#: hoskia-elements/feature-v2.php:40
+msgid "Features Version Two"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:259
+msgid "Follow Us"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:121 hoskia-elements/counter.php:54
+#: hoskia-elements/faq.php:52 hoskia-elements/feature-v2.php:51
+#: hoskia-elements/feature.php:61 hoskia-elements/horizontal-table-tab.php:223
+#: hoskia-elements/nav.php:57 hoskia-elements/pricing-feature-list.php:103
+#: hoskia-elements/pricing-feature-list.php:139
+#: hoskia-elements/pricing-filter.php:90 hoskia-elements/pricing-filter.php:124
+#: hoskia-elements/pricing.php:47 hoskia-elements/pricing.php:126
+#: hoskia-elements/service.php:63 hoskia-elements/services-tab.php:115
+#: hoskia-elements/vps-slider.php:103 hoskia-elements/vps-slider.php:145
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: hoskia-vc-shortcode-param/hoskia-font-container-param.php:100
+msgid "Font size"
+msgstr ""
+
+#: hoskia-vc-shortcode-param/hoskia-font-container-param.php:162
+msgid "Font style"
+msgstr ""
+
+#: hoskia-elements/team-slider.php:72
+msgid "Fonta Wesome Icon"
+msgstr ""
+
+#: hoskia-elements/gallery.php:32
+msgid "Gallery"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:43 hoskia-elements/vps-slider.php:50
+#: hoskia-elements/vps-slider.php:62 hoskia-elements/vps-slider.php:73
+#: hoskia-elements/vps-slider.php:80
+msgid "General"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:46
+msgid "Heading"
+msgstr ""
+
+#: hoskia-elements/horizontal-table.php:32
+msgid "Horizontal Pricing Table"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:155
+msgid "Horizontal Pricing Table Content"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:50
+#: hoskia-elements/horizontal-table-tab.php:82
+msgid "Horizontal Pricing Table Tab"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:194
+#: hoskia-elements/horizontal-table-tab.php:200
+#: hoskia-elements/horizontal-table.php:77
+#: hoskia-elements/horizontal-table.php:83
+msgid "Horizontal Table Content"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:179
+#: hoskia-elements/horizontal-table.php:62
+msgid "Horizontal Table Heading"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:92
+msgid "Horizontal Table Tabs"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:35 hoskia-elements/counter.php:36
+#: hoskia-elements/datacenter.php:35 hoskia-elements/domain-extension.php:34
+#: hoskia-elements/domain-search.php:34 hoskia-elements/faq.php:35
+#: hoskia-elements/feature-tab.php:58 hoskia-elements/feature-tab.php:85
+#: hoskia-elements/feature-tab.php:145 hoskia-elements/feature-tab.php:171
+#: hoskia-elements/feature-v2.php:35 hoskia-elements/feature.php:35
+#: hoskia-elements/gallery.php:36 hoskia-elements/horizontal-table-tab.php:57
+#: hoskia-elements/horizontal-table-tab.php:86
+#: hoskia-elements/horizontal-table-tab.php:130
+#: hoskia-elements/horizontal-table-tab.php:159
+#: hoskia-elements/horizontal-table.php:36
+#: hoskia-elements/hoskia-section.php:37 hoskia-elements/map.php:35
+#: hoskia-elements/nav.php:35 hoskia-elements/pricing-feature-list.php:36
+#: hoskia-elements/pricing-filter.php:36 hoskia-elements/pricing.php:35
+#: hoskia-elements/section-heading.php:33 hoskia-elements/service-type.php:36
+#: hoskia-elements/service.php:36 hoskia-elements/services-tab.php:36
+#: hoskia-elements/single-img.php:35 hoskia-elements/team-slider.php:36
+#: hoskia-elements/testimonial.php:35 hoskia-elements/text-area.php:35
+#: hoskia-elements/vps-slider.php:36
+msgid "Hoskia"
+msgstr ""
+
+#: hoskia-elements/text-area.php:32
+msgid "Hoskia Block"
+msgstr ""
+
+#. Name of the plugin
+msgid "Hoskia Core"
+msgstr ""
+
+#: hoskia-elements/hoskia-section.php:31
+msgid "Hoskia Section"
+msgstr ""
+
+#. Description of the plugin
+msgid "Hoskia theme Core plugin"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themelooks.com/"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:101
+msgid "Icon"
+msgstr ""
+
+#: hoskia-elements/service.php:45
+msgid "Icon Left Side"
+msgstr ""
+
+#: hoskia-elements/feature.php:47
+msgid "Icon Position"
+msgstr ""
+
+#: hoskia-elements/feature.php:40
+msgid "Icon Style"
+msgstr ""
+
+#: hoskia-elements/service.php:49
+msgid "Icon Top Center"
+msgstr ""
+
+#: hoskia-elements/counter.php:47 hoskia-elements/feature-v2.php:44
+#: hoskia-elements/feature.php:54 hoskia-elements/pricing.php:40
+#: hoskia-elements/service.php:56 hoskia-elements/services-tab.php:40
+msgid "Icon Type"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:54 hoskia-elements/datacenter.php:46
+#: hoskia-elements/feature-tab.php:214 hoskia-elements/services-tab.php:62
+#: hoskia-elements/single-img.php:41 hoskia-elements/team-slider.php:49
+#: hoskia-elements/testimonial.php:66 inc/about-widget.php:122
+#: inc/subscribe-widget.php:126
+msgid "Image"
+msgstr ""
+
+#: hoskia-elements/counter.php:70 hoskia-elements/feature-v2.php:67
+#: hoskia-elements/feature.php:77 hoskia-elements/pricing.php:63
+#: hoskia-elements/service.php:79 hoskia-elements/services-tab.php:131
+msgid "Image Icon"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:206
+msgid "Image Position"
+msgstr ""
+
+#: hoskia-vc-shortcode-param/hoskia-font-container-param.php:169
+msgid "Italic"
+msgstr ""
+
+#: hoskia-elements/map.php:39 hoskia-elements/map.php:66
+msgid "Latitude"
+msgstr ""
+
+#: hoskia-vc-shortcode-param/hoskia-font-container-param.php:146
+msgid "Letter spacing"
+msgstr ""
+
+#: hoskia-vc-shortcode-param/hoskia-font-container-param.php:115
+msgid "Line height"
+msgstr ""
+
+#: hoskia-elements/gallery.php:84
+msgid "Link Target"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:66
+msgid "Logo"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:74
+msgid "Logo Url"
+msgstr ""
+
+#: hoskia-elements/map.php:46 hoskia-elements/map.php:72
+msgid "Longitude"
+msgstr ""
+
+#: hoskia-elements/map.php:32
+msgid "Map"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:79 hoskia-elements/single-img.php:71
+msgid "Margin Bottom"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:65 hoskia-elements/single-img.php:63
+msgid "Margin Top"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:53
+msgid "Margin Type"
+msgstr ""
+
+#: hoskia-elements/team-slider.php:44
+msgid "Member Info Set"
+msgstr ""
+
+#: hoskia-elements/team-slider.php:68
+msgid "Member Social Media"
+msgstr ""
+
+#: hoskia-template/single-gallery.php:143
+msgid "More Projects :"
+msgstr ""
+
+#: hoskia-elements/map.php:61
+msgid "Multi Marker"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:70 hoskia-elements/team-slider.php:55
+#: hoskia-elements/testimonial.php:74
+msgid "Name"
+msgstr ""
+
+#: hoskia-elements/nav.php:45
+msgid "Nav Title"
+msgstr ""
+
+#: hoskia-elements/nav.php:51
+msgid "Nav Url"
+msgstr ""
+
+#: inc/about-widget.php:128 inc/subscribe-widget.php:132
+msgid "No image selected"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:79
+msgid "Order Button Text"
+msgstr ""
+
+#: hoskia-elements/hoskia-section.php:61
+msgid "Parallax"
+msgstr ""
+
+#: hoskia-elements/team-slider.php:102
+msgid "Per row Slide Number"
+msgstr ""
+
+#: hoskia-elements/testimonial.php:40
+msgid "Per Slide Number ( On Desktop )"
+msgstr ""
+
+#: hoskia-elements/testimonial.php:47
+msgid "Per Slide Number ( On Mobile 768px )"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:92
+msgid "Plan Features"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:121
+msgid "Plan Features Content"
+msgstr ""
+
+#: hoskia-elements/gallery.php:53
+msgid "Post Per Page"
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:83 hoskia-elements/pricing.php:85
+#: hoskia-elements/vps-slider.php:140
+msgid "Price"
+msgstr ""
+
+#: hoskia-elements/pricing-filter.php:79
+msgid "price"
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:129 hoskia-elements/pricing.php:116
+msgid "Pricing Features"
+msgstr ""
+
+#: hoskia-elements/pricing.php:31
+msgid "Pricing Table"
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:32
+msgid "Pricing Table Feature List"
+msgstr ""
+
+#: hoskia-elements/pricing-filter.php:32
+msgid "Pricing Table Filter"
+msgstr ""
+
+#: hoskia-elements/pricing-filter.php:43 hoskia-elements/pricing-filter.php:49
+#: hoskia-elements/pricing-filter.php:50
+msgid "Pricing Table Settings"
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:42
+#: hoskia-elements/pricing-filter.php:62
+msgid "Pricing Tables"
+msgstr ""
+
+#: hoskia-template/single-gallery.php:88
+msgid "Project Done"
+msgstr ""
+
+#: hoskia-elements/domain-extension.php:50
+msgid "Rate and Duration"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:87 hoskia-elements/testimonial.php:91
+msgid "Rating"
+msgstr ""
+
+#: hoskia-elements/pricing.php:302
+msgid "Recommended"
+msgstr ""
+
+#: inc/about-widget.php:133 inc/subscribe-widget.php:137
+msgid "Remove"
+msgstr ""
+
+#: hoskia-elements/pricing.php:103
+msgid "Ribbon"
+msgstr ""
+
+#: hoskia-elements/pricing-filter.php:108 hoskia-elements/pricing.php:109
+msgid "Ribbon Text"
+msgstr ""
+
+#: hoskia-elements/domain-search.php:39
+msgid "Search Action Url"
+msgstr ""
+
+#: hoskia-elements/domain-search.php:69
+msgid "Search Border Color"
+msgstr ""
+
+#: hoskia-elements/domain-search.php:146
+msgid "Search Now"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:29
+msgid "Section Heading"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:114 hoskia-elements/text-area.php:76
+msgid "Section Heading Typography"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:107
+msgid "Section Heading Typography Settings"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:141
+msgid "Section Sub Heading Typography"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:134
+msgid "Section Sub Heading Typography Settings"
+msgstr ""
+
+#: hoskia-elements/gallery.php:47
+msgid "Section Sub Title"
+msgstr ""
+
+#: hoskia-elements/gallery.php:41
+msgid "Section Title"
+msgstr ""
+
+#: hoskia-elements/gallery.php:116
+msgid "See More"
+msgstr ""
+
+#: hoskia-elements/gallery.php:72
+msgid "See More Button Text"
+msgstr ""
+
+#: hoskia-elements/gallery.php:78
+msgid "See More Button Url"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:124
+#: hoskia-elements/section-heading.php:152 hoskia-elements/text-area.php:86
+msgid "Select color for your element."
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:208
+msgid "Select content type."
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:128 hoskia-elements/counter.php:65
+#: hoskia-elements/faq.php:59 hoskia-elements/feature-tab.php:108
+#: hoskia-elements/feature-v2.php:62 hoskia-elements/feature.php:72
+#: hoskia-elements/nav.php:64 hoskia-elements/pricing-feature-list.php:110
+#: hoskia-elements/pricing-feature-list.php:146
+#: hoskia-elements/pricing-filter.php:97 hoskia-elements/pricing-filter.php:131
+#: hoskia-elements/pricing.php:58 hoskia-elements/pricing.php:133
+#: hoskia-elements/service.php:74 hoskia-elements/services-tab.php:126
+#: hoskia-elements/team-slider.php:79 hoskia-elements/vps-slider.php:110
+#: hoskia-elements/vps-slider.php:152
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/about-widget.php:135 inc/subscribe-widget.php:139
+msgid "Select Image"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:89 hoskia-elements/testimonial.php:93
+msgid "Select Star"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:149
+msgid "Select text alignment."
+msgstr ""
+
+#: hoskia-elements/service.php:32
+msgid "Service"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:32
+msgid "Service Tab"
+msgstr ""
+
+#: hoskia-elements/service-type.php:32
+msgid "Service Type"
+msgstr ""
+
+#: hoskia-elements/service-type.php:56
+msgid "Services Per Page"
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:120 hoskia-elements/pricing.php:99
+msgid "Set active pricing table."
+msgstr ""
+
+#: hoskia-elements/datacenter.php:72 hoskia-elements/text-area.php:56
+msgid "Set button label."
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:154 hoskia-elements/pricing.php:141
+#: hoskia-elements/service.php:119
+msgid "Set button text."
+msgstr ""
+
+#: hoskia-elements/datacenter.php:78
+#: hoskia-elements/pricing-feature-list.php:164
+#: hoskia-elements/pricing-feature-list.php:179 hoskia-elements/pricing.php:147
+#: hoskia-elements/service.php:125 hoskia-elements/text-area.php:63
+msgid "Set button url."
+msgstr ""
+
+#: hoskia-elements/datacenter.php:41 hoskia-elements/faq.php:42
+#: hoskia-elements/faq.php:72 hoskia-elements/feature-tab.php:91
+#: hoskia-elements/services-tab.php:51 hoskia-elements/testimonial.php:55
+msgid "Set Content"
+msgstr ""
+
+#: hoskia-elements/counter.php:88
+msgid "Set counter number."
+msgstr ""
+
+#: hoskia-elements/counter.php:94
+msgid "Set counter symbol."
+msgstr ""
+
+#: hoskia-elements/counter.php:82
+msgid "Set counter title."
+msgstr ""
+
+#: hoskia-elements/datacenter.php:66
+msgid "Set description."
+msgstr ""
+
+#: hoskia-elements/services-tab.php:77 hoskia-elements/testimonial.php:81
+msgid "Set designation."
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:95 hoskia-elements/pricing.php:93
+msgid "Set duration."
+msgstr ""
+
+#: hoskia-elements/feature-v2.php:91 hoskia-elements/feature.php:95
+#: hoskia-elements/service.php:113 hoskia-elements/services-tab.php:149
+msgid "Set feature descriptions."
+msgstr ""
+
+#: hoskia-elements/counter.php:72 hoskia-elements/feature-v2.php:69
+#: hoskia-elements/feature.php:79 hoskia-elements/pricing.php:65
+#: hoskia-elements/service.php:81 hoskia-elements/services-tab.php:133
+msgid "Set feature image icon."
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:55
+msgid "Set feature list table title."
+msgstr ""
+
+#: hoskia-elements/feature-v2.php:79 hoskia-elements/feature.php:89
+#: hoskia-elements/service.php:91 hoskia-elements/services-tab.php:143
+#: hoskia-elements/team-slider.php:57
+msgid "Set feature title."
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:165
+msgid "Set features value"
+msgstr ""
+
+#: hoskia-elements/service-type.php:58
+msgid "Set how many service show in section."
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:56 hoskia-elements/datacenter.php:48
+#: hoskia-elements/feature-tab.php:216
+msgid "Set image."
+msgstr ""
+
+#: hoskia-elements/map.php:62
+msgid "Set Latitude and Longitude."
+msgstr ""
+
+#: hoskia-elements/map.php:41 hoskia-elements/map.php:68
+#: hoskia-elements/nav.php:47
+msgid "Set latitude."
+msgstr ""
+
+#: hoskia-elements/map.php:48 hoskia-elements/map.php:74
+#: hoskia-elements/nav.php:53
+msgid "Set longitude."
+msgstr ""
+
+#: hoskia-elements/single-img.php:73
+msgid "Set margin bottom."
+msgstr ""
+
+#: hoskia-elements/single-img.php:65
+msgid "Set margin top."
+msgstr ""
+
+#: hoskia-elements/team-slider.php:43
+msgid "Set member information"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:93
+msgid "Set plan features"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:122
+msgid "Set plan features content"
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:85 hoskia-elements/pricing.php:87
+msgid "Set price."
+msgstr ""
+
+#: hoskia-elements/pricing.php:105
+msgid "Set pricing table ribbon."
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:75 hoskia-elements/pricing.php:81
+msgid "Set pricing table sub title."
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:65 hoskia-elements/pricing.php:75
+msgid "Set pricing table title."
+msgstr ""
+
+#: hoskia-elements/pricing.php:111
+msgid "Set ribbon text."
+msgstr ""
+
+#: hoskia-elements/section-heading.php:49
+msgid "Set section heading."
+msgstr ""
+
+#: hoskia-elements/section-heading.php:42
+msgid "Set section sub heading."
+msgstr ""
+
+#: hoskia-elements/services-tab.php:64 hoskia-elements/single-img.php:43
+#: hoskia-elements/team-slider.php:51 hoskia-elements/testimonial.php:68
+msgid "Set service image."
+msgstr ""
+
+#: hoskia-elements/nav.php:41
+msgid "Set set custom nav and url."
+msgstr ""
+
+#: hoskia-elements/counter.php:104
+msgid "Set single counter right border."
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:42
+msgid "Set sliders"
+msgstr ""
+
+#: hoskia-elements/feature-v2.php:85 hoskia-elements/service.php:97
+msgid "Set step."
+msgstr ""
+
+#: hoskia-elements/datacenter.php:60
+msgid "Set sub title."
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:90
+msgid "Set Tab Name"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:187
+msgid "Set tab name which is set in Feature Element Tab Settings."
+msgstr ""
+
+#: hoskia-elements/single-img.php:50
+msgid "Set text."
+msgstr ""
+
+#: hoskia-elements/text-area.php:105
+msgid "Set title margin bottom."
+msgstr ""
+
+#: hoskia-elements/text-area.php:97
+msgid "Set title margin top."
+msgstr ""
+
+#: hoskia-elements/service.php:107 hoskia-elements/team-slider.php:63
+msgid "Set title url."
+msgstr ""
+
+#: hoskia-elements/datacenter.php:54 hoskia-elements/feature-tab.php:97
+#: hoskia-elements/text-area.php:49
+msgid "Set title."
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:117
+msgid "Set url"
+msgstr ""
+
+#: hoskia-elements/map.php:55
+msgid "Set zoom."
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:177
+msgid "Settings"
+msgstr ""
+
+#. unique ID
+#: hoskia-core.php:67 hoskia-core.php:101
+msgid "Shortcode"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:42
+msgid "Show Custom Order Button"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:72
+msgid "Show Order Button"
+msgstr ""
+
+#: hoskia-elements/service-type.php:45
+msgid "Simple"
+msgstr ""
+
+#: hoskia-elements/single-img.php:32
+msgid "Single Image"
+msgstr ""
+
+#: hoskia-core.php:100
+msgid "Slider Name"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:41 hoskia-elements/comingsoon.php:49
+#: hoskia-elements/comingsoon.php:57
+msgid "Slider Settings"
+msgstr ""
+
+#: hoskia-elements/datacenter.php:40
+msgid "Sliders"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:110
+msgid "Social Icon"
+msgstr ""
+
+#: inc/hoskiacore-functions.php:112 inc/hoskiacore-functions.php:143
+msgid "Sorry something wrong. Please try again."
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:95
+msgid "Starting Date"
+msgstr ""
+
+#: hoskia-elements/feature-v2.php:83 hoskia-elements/service.php:95
+msgid "Step"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:39
+msgid "Sub Heading"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:88 hoskia-elements/datacenter.php:58
+#: hoskia-elements/pricing-feature-list.php:73
+#: hoskia-elements/pricing-filter.php:73 hoskia-elements/pricing.php:79
+#: hoskia-elements/vps-slider.php:134
+msgid "Sub Title"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:247
+msgid "Subscribe"
+msgstr ""
+
+#: hoskia-elements/counter.php:92
+msgid "Symbol"
+msgstr ""
+
+#: hoskia-elements/feature-tab.php:184
+#: hoskia-elements/horizontal-table-tab.php:97
+#: hoskia-elements/horizontal-table-tab.php:164
+#: hoskia-elements/pricing-filter.php:55
+msgid "Tab Name"
+msgstr ""
+
+#: hoskia-elements/faq.php:47
+msgid "Tab Title"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:193
+#: hoskia-elements/horizontal-table-tab.php:199
+#: hoskia-elements/horizontal-table.php:76
+#: hoskia-elements/horizontal-table.php:82
+msgid "Table Content"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:125
+msgid "Table Content Wrapper"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:178
+#: hoskia-elements/horizontal-table-tab.php:184
+#: hoskia-elements/horizontal-table.php:42
+#: hoskia-elements/horizontal-table.php:61
+#: hoskia-elements/horizontal-table.php:67
+msgid "Table Heading"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:91
+msgid "Tabs"
+msgstr ""
+
+#: hoskia-elements/team-slider.php:32
+msgid "Team Members Slider"
+msgstr ""
+
+#: hoskia-elements/services-tab.php:50 hoskia-elements/testimonial.php:32
+#: hoskia-elements/testimonial.php:42 hoskia-elements/testimonial.php:49
+#: hoskia-elements/testimonial.php:54
+msgid "Testimonial"
+msgstr ""
+
+#: hoskia-elements/single-img.php:48
+msgid "Text"
+msgstr ""
+
+#: hoskia-elements/section-heading.php:92
+msgid "Text Align"
+msgstr ""
+
+#: hoskia-elements/text-area.php:41
+msgid "Text Area"
+msgstr ""
+
+#: inc/about-widget.php:143
+msgid "Text Area:"
+msgstr ""
+
+#: hoskia-vc-shortcode-param/hoskia-font-container-param.php:129
+msgid "Text color"
+msgstr ""
+
+#: inc/hoskiacore-functions.php:115 inc/hoskiacore-functions.php:146
+msgid "Thank you, you have been added to our mailing list."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeLooks"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:47 hoskia-elements/comingsoon.php:81
+#: hoskia-elements/counter.php:80 hoskia-elements/datacenter.php:52
+#: hoskia-elements/faq.php:64 hoskia-elements/faq.php:78
+#: hoskia-elements/feature-tab.php:95 hoskia-elements/feature-tab.php:192
+#: hoskia-elements/feature-v2.php:77 hoskia-elements/feature.php:87
+#: hoskia-elements/pricing-feature-list.php:63
+#: hoskia-elements/pricing-filter.php:67 hoskia-elements/pricing.php:73
+#: hoskia-elements/service.php:89 hoskia-elements/services-tab.php:56
+#: hoskia-elements/services-tab.php:141 hoskia-elements/testimonial.php:60
+#: hoskia-elements/text-area.php:47 hoskia-elements/vps-slider.php:98
+#: hoskia-elements/vps-slider.php:128
+msgid "Title"
+msgstr ""
+
+#: hoskia-elements/text-area.php:103
+msgid "Title Margin Bottom"
+msgstr ""
+
+#: hoskia-elements/text-area.php:95
+msgid "Title Margin Top"
+msgstr ""
+
+#: hoskia-elements/service.php:105
+msgid "Title Url"
+msgstr ""
+
+#: inc/about-widget.php:117
+msgid "Title:"
+msgstr ""
+
+#: hoskia-elements/pricing-feature-list.php:46
+msgid "Type"
+msgstr ""
+
+#: hoskia-vc-shortcode-param/hoskia-font-container-param.php:176
+msgid "Underline"
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:68
+msgid "Upload Logo."
+msgstr ""
+
+#: hoskia-elements/comingsoon.php:115 hoskia-elements/team-slider.php:83
+#: hoskia-elements/vps-slider.php:157
+msgid "URL"
+msgstr ""
+
+#: hoskia-elements/horizontal-table-tab.php:215
+#: hoskia-elements/horizontal-table-tab.php:230
+msgid "Use text or icon."
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:170
+msgid "Value"
+msgstr ""
+
+#: hoskia-elements/hoskia-section.php:47
+msgid "Video Background"
+msgstr ""
+
+#: hoskia-elements/hoskia-section.php:52
+msgid "Video ID"
+msgstr ""
+
+#: hoskia-elements/service-type.php:126
+#: hoskia-template/archive-hoskia_services.php:39
+msgid "View Details"
+msgstr ""
+
+#: hoskia-elements/vps-slider.php:32
+msgid "Vps Slider"
+msgstr ""
+
+#: hoskia-elements/map.php:53 hoskia-elements/map.php:56
+msgid "Zoom"
+msgstr ""

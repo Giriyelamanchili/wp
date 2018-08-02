@@ -1,0 +1,1894 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hoskia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-16 12:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/hoskia-functions.php:89
+msgid " Comments"
+msgstr ""
+
+#: inc/support-functions.php:113
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hoskia-woo-functions.php:239
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/biography.php:20 templates/biography.php:38
+#, php-format
+msgid "%s %s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:40
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/global/quantity-input.php:34
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:21
+msgid "&laquo;"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:22
+msgid "&raquo;"
+msgstr ""
+
+#: inc/support-functions.php:113
+msgid "(Edit)"
+msgstr ""
+
+#: inc/support-functions.php:26 inc/hooks/hooks-functions.php:218
+msgid "/"
+msgstr ""
+
+#: inc/hoskia-functions.php:91
+msgid "1 Comment"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:887
+msgid "404 Background"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:873
+msgid "404 Description"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:852
+msgid "404 Page"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:888
+msgid "404 page background with image, color, etc."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:866
+msgid "404 Sorry Text"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:859
+msgid "404 Text"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1390
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:182
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:171
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:176
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/support-functions.php:113
+#, php-format
+msgid "<span class=\"comment-author-name\">%s</span> "
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:431
+msgid "Active Autoplay"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:424
+msgid "Active Mouse Drag"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:438
+msgid "Active Slider Nav"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:293
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:317
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/wp_bootstrap_navwalker.php:202
+msgid "Add a menu"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1022
+msgid "Add behance plus URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1233
+msgid "Add Copyright "
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1034
+msgid "Add dribbble plus URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:980
+msgid "Add Facebook URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1040
+msgid "Add github URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:992
+msgid "Add google plus URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1004
+msgid "Add Instagram URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1016
+msgid "Add linkedin plus URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1028
+msgid "Add pinterest plus URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:619
+msgid "Add Price"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:616
+msgid "Add Pricing"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:449
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:452
+msgid "Add Slider"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:986
+msgid "Add Twitter URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1010
+msgid "Add vimeo plus URL"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:43
+msgid "Add Your Review"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:998
+msgid "Add youtube URL"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:115
+msgid "All in One SEO Pack"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:262
+msgid "API Key"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:391
+msgid "Availability"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Average"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:345
+msgid "Background Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:218
+msgid "Background Image"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:896
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:280
+msgid "Banner / Slider"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1021
+msgid "Behance"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:665
+msgid "Below Post Thumbnail"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing details"
+msgstr ""
+
+#: templates/page-header.php:51
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:599
+msgid "Blog"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:672
+msgid "Blog Pagination Settings"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:653
+msgid "Blog Posts Excerpt"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:709
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:211
+msgid "Body Typography"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:483
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:587
+msgid "Breadcrumb divider Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:577
+msgid "Breadcrumb Hide/Show"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:285 inc/hoskia-woo-functions.php:292
+msgid "Browse Wishlist"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:368
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:375
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:390
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:397
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:383
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:404
+msgid "Button Link Behaviour"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:496
+msgid "Button Secondary Text"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:502
+msgid "Button Secondary Url"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:483
+msgid "Button Text"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:361
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:489
+msgid "Button Url"
+msgstr ""
+
+#: inc/support-functions.php:26
+msgid "By"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:238
+msgid "by"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:414
+msgid "Cart Image Icon"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:434
+msgid "Category"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:547
+msgid "Check this check box to use overlay."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:776
+msgid "Choose product single page sidebar."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:753
+msgid "Choose shop page sidebar"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:631
+msgid "Choose your blog post column."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:608
+msgid "Choose your blog sidebar layout "
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:717
+msgid "Choose your page sidebar layout "
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:655
+msgid "Client Name"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:79
+msgid "CMB2"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1067
+msgid "Column"
+msgstr ""
+
+#: inc/hoskia-functions.php:95
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:537
+msgid "Common Header Background"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:326
+msgid "Compare"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:85
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1081
+msgid "Contact Info"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1232
+msgid "Copyright"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:61
+msgid "Create an account?"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1277
+msgid "CSS Code"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1270
+msgid "Custom Css"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:168
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:174
+msgid "Custom Slider"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:254
+msgid "Custom Theme Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:252
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:342
+msgid "Default opacity 0.5"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:210
+#: inc/hoskia-option-slide-add-filed.php:290
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:221
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:314
+msgid "Delete"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:192
+#: inc/hoskia-option-slide-add-filed.php:274
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:203
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:298
+msgid "Description"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:476
+msgid "Descriptions"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:204
+msgid "Display Back To Top Button"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:405
+msgid "Display Header Shopping Cart"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:340
+msgid "Display Header Social"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:333
+msgid "Display Header Top"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:349
+msgid "Display Header Top Contact"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:680
+msgid "Display More Project"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:197
+msgid "Display Preloader"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1033
+msgid "Dribbble"
+msgstr ""
+
+#: templates/404.php:72
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:875
+msgid "Either something went wrong or the page dosen&rsquo;t exist anymore."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Email"
+msgstr ""
+
+#: comments.php:54
+msgid "Email *"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1059
+msgid "Enabled/Disabled footer top section for all page."
+msgstr ""
+
+#: inc/hoskia-breadcrumbs.php:111
+msgid "Error 404"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:979
+msgid "Facebook"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:188
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:199
+msgid "Facts Number"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:270
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:294
+msgid "Facts number"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:67
+msgid "First"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1157
+msgid "Footer"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1240
+msgid "Footer Copyright Background Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1259
+msgid "Footer Copyright Link Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1252
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: inc/hoskia-widgets-reg.php:71
+msgid "Footer Four"
+msgstr ""
+
+#: inc/classes/Class-Config.php:91
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/hoskia-widgets-reg.php:47
+msgid "Footer One"
+msgstr ""
+
+#: inc/hoskia-widgets-reg.php:63
+msgid "Footer Three"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1050
+msgid "Footer Top ( Contact Info Section )"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1109
+msgid "Footer Top Background"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1058
+msgid "Footer Top Enabled/Disabled"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1131
+msgid "Footer Top Hover Background"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1145
+msgid "Footer Top Hover Text Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1110
+msgid "Footer top section background color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1132
+msgid "Footer top section background with image, color, etc."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1123
+msgid "Footer Top Text Color"
+msgstr ""
+
+#: inc/hoskia-widgets-reg.php:55
+msgid "Footer Two"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1227
+msgid "Footer widget anchor hover color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1221
+msgid "Footer widget anchor icon color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1196
+msgid "Footer widget background color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1215
+msgid "Footer widget color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1164
+msgid "Footer Widget Enabled/Disabled"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1209
+msgid "Footer widget title color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:645
+msgid "Gallery Info"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:188
+msgid "General"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:292
+msgid "General Background Image"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:298
+msgid "General Video Background"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1039
+msgid "Github"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:204
+msgid "Global Settings"
+msgstr ""
+
+#: templates/404.php:73
+msgid "Go to."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Good"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:991
+msgid "Google Plus"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:275
+msgid "Header"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:211
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:463
+msgid "Header Menu Background"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:257
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:383
+msgid "Header Top Background Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:357
+msgid "Header Top contact divider Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:375
+msgid "Header top email"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:368
+msgid "Header top phone Number"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:397
+msgid "Header Top Text Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:232
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:578
+msgid ""
+"Hide / Show breadcrumb from all page and post ( Default settings hide )."
+msgstr ""
+
+#: inc/hoskia-breadcrumbs.php:28 inc/hoskia-breadcrumbs.php:123
+msgid "Home"
+msgstr ""
+
+#: templates/404.php:82
+msgid "Home page"
+msgstr ""
+
+#. Name of the theme
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:328
+msgid "Hoskia"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:53
+msgid "Hoskia Core"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Hoskia is a Multipurpose Hosting with WHMCS and Technology Business "
+"WordPress Theme designed for All kinds of Technology, Domain and Hosting "
+"Business.Anyone can easily update/edit this plugin to follow our Well Sorted "
+"Documentation."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:59
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:60
+msgid "Hoskia Options"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:654
+msgid "How many word you want to show per post in blog "
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themelooks.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://themelooks.us/demo/hoskia/wordpress/"
+msgstr ""
+
+#: searchform.php:4
+msgid "I'm looking for..."
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:178
+#: inc/hoskia-option-slide-add-filed.php:261
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:698
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:186
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:282
+msgid "Icon"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:880
+msgid "Image"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:514
+msgid "Image Position"
+msgstr ""
+
+#: inc/hoskia-framework/demo-data/demo-import.php:64
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1085
+msgid "info or others 1"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1086
+msgid "info or others 2"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1003
+msgid "Instagram"
+msgstr ""
+
+#: templates/content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:89
+msgid "Last"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:67
+msgid "Leave Comment"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:677
+msgid "Link Pagination"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1015
+msgid "Linkedin"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:670
+msgid "Live Preview"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:665
+msgid "Live Preview Button Label"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:440
+msgid "Login Button Icon"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:433
+msgid "Login Button Image Icon"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:448
+msgid "Login Button Url"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:283
+msgid "Logo"
+msgstr ""
+
+#: inc/hoskia-functions.php:172 inc/hoskia-functions.php:173
+#: inc/hoskia-functions.php:177
+msgid "logo"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:300
+msgid "Logo Dimensions (Width/Height)."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:314
+msgid "Logo Top and Bottom Margin."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:951
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:957
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:121
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:495
+msgid "Menu Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:502
+msgid "Menu Hover Color"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Name"
+msgstr ""
+
+#: comments.php:53
+msgid "Name *"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:584
+msgid "Nav Button Text"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:590
+msgid "Nav Button Url"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:578
+msgid "Nav Descriptions"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:572
+msgid "Nav Font Awesome Icon"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:565
+msgid "Nav Image Icon"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:559
+msgid "Nav Title"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:77
+#: inc/hoskia-option-slide-add-filed.php:217
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:77
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:228
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:411
+msgid "New Tab"
+msgstr ""
+
+#: templates/pagination.php:29
+msgid "Newer Post"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:85
+msgid "next"
+msgstr ""
+
+#: inc/hoskia-functions.php:87
+msgid "No Comments"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:165
+msgid "No Header"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:707
+msgid "No sidebar"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:318
+msgid "None"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Not that bad"
+msgstr ""
+
+#: templates/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:676
+msgid "Number Pagination"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:543
+msgid "Offer Box Button Text"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:549
+msgid "Offer Box Button Url"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:525
+msgid "Offer Box Text One"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:537
+msgid "Offer Box Text Three"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:531
+msgid "Offer Box Text Two"
+msgstr ""
+
+#: templates/pagination.php:30
+msgid "Older Post"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:664
+msgid "On Header"
+msgstr ""
+
+#: inc/hoskia-framework/demo-data/demo-import.php:63
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:60
+msgid "One Click Demo Importer"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:112
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: templates/404.php:55
+msgid "Ooops ! sorry we can&rsquo;t find the page"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:868
+msgid "Ooops ! sorry we can&rsquo;t find the page."
+msgstr ""
+
+#: templates/404.php:30
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:861
+msgid "Ooops 404 Error !"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:226
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:305
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:313
+msgid "Overlay"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:234
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:325
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:903
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:242
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:332
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:558
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:918
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/hoskia-functions.php:144
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:696
+msgid "Page"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:167
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:529
+msgid "Page Header"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:546
+msgid "Page Header Overlay"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:552
+msgid "Page Header Overlay Background"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:152
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:195
+msgid "Page Header Settings"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:571
+msgid "Page Header Text Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:119
+msgid "Page Layout"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:203
+msgid "Page Settings"
+msgstr ""
+
+#: inc/hoskia-widgets-reg.php:28
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:708
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:703
+msgid "Page Sidebar Settings"
+msgstr ""
+
+#: inc/hoskia-functions.php:140
+msgid "Pages:"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1278
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Perfect"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:932
+msgid "Pick a text color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:255
+msgid "Pick a unlimited main color for the theme (default: #3f5efb)."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1027
+msgid "Pinterest"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:568
+msgid "Please empty the font awesome icon field when you use image icon."
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:70
+msgid "previous"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:399
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:634
+msgid "Price"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:618
+msgid "Price {#}"
+msgstr ""
+
+#: inc/classes/Class-Config.php:86
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:283
+msgid "Product added!"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:798
+msgid "Product Column"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:825
+msgid "Product Per Page"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:34
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:775
+msgid "Product Single Page sidebar"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:168
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:168
+msgid "Progress"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:252
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:263
+msgid "progress"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:660
+msgid "Project Done"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:410 woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/support-functions.php:39 inc/hooks/hooks-functions.php:278
+msgid "Read More"
+msgstr ""
+
+#: templates/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:73
+msgid "Redux Framework"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:838
+msgid "Related products number"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:146
+#: inc/hoskia-option-slide-add-filed.php:233
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:146
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:244
+msgid "Remove"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:620
+msgid "Remove Price"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:453
+msgid "Remove Slider"
+msgstr ""
+
+#: inc/support-functions.php:119
+msgid "Reply"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:410
+msgid "Same Page"
+msgstr ""
+
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:189
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:285
+msgid "Search icon..."
+msgstr ""
+
+#: templates/page-header.php:53
+msgid "Search Result"
+msgstr ""
+
+#: inc/hoskia-breadcrumbs.php:109
+msgid "Search results for:"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1389
+msgid "Section via hook"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:607
+msgid "Select blog layout"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:630
+msgid "Select Blog Post Column"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:422
+msgid "Select Cart Icon"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:423
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:441
+msgid "Select font awesome icon."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:716
+msgid "Select Page layout"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:282
+msgid "Select type slider or banner."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1172
+msgid "Select Widget Column"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:691
+msgid "Service Icon"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:603
+msgid "Service Pricing Info"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:874
+msgid "Set 404 description text "
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:867
+msgid "Set 404 sorry text."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:860
+msgid "Set 404 text "
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:219
+msgid "Set background image."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:897
+msgid "Set background overlay."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:673
+msgid "Set blog pagination."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:588
+msgid "Set breadcrumb divider color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:538
+msgid "Set common header background."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:175
+msgid "Set custom slider shortcode."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1260
+msgid "Set footer copyright link color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1253
+msgid "Set footer copyright text color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1146
+msgid "Set footer top hover text color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1068
+msgid "Set footer top support contact info column."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1082
+msgid "Set footer top support contact info."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1124
+msgid "Set footer top text color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1197
+msgid "Set footer widget background color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:464
+msgid "Set header menu background color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:496
+msgid "Set header menu color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:503
+msgid "Set header menu hover color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:384
+msgid "Set header top background color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:398
+msgid "Set header top color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:358
+msgid "Set header top contact divider color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:376
+msgid "Set header top email."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:369
+msgid "Set header top phone number."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:839
+msgid "Set how many related products you want to show in single product page."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:881
+msgid "Set image"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:449
+msgid "Set login button url."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:301
+msgid "Set logo dimensions to choose width, height, and unit."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:317
+msgid "Set logo top and bottom margin."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:952
+msgid "Set mailchimp api key."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:958
+msgid "Set mailchimp list id."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:553
+msgid "Set overlay background."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:235
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:326
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:904
+msgid "Set overlay color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:243
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:333
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:559
+msgid "Set overlay opacity."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:919
+msgid "set overlay opacity."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:227
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:306
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:316
+msgid "Set overlay."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:144
+msgid "Set page content wrapper top and bottom padding."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:572
+msgid "Set page header text color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:126
+msgid ""
+"Set page layout container,container fluid,fullwidth or both. It's work only "
+"in template builder page."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:704
+msgid "Set page sidebar."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:752
+msgid "Set Shop Page Sidebar."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:661
+msgid "Set single post title display position."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:347
+msgid "Set slider background color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:370
+msgid "Set slider button background color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:377
+msgid "Set slider button border color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:392
+msgid "Set slider button hover background color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:399
+msgid "Set slider button hover border color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:385
+msgid "Set slider button hover text color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:363
+msgid "Set slider button text color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:419
+msgid "Set slider speed. Default speed 2000."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:355
+msgid "Set slider text color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:183
+msgid "Set slider."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:480
+msgid "Set sticky header menu background color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:510
+msgid "Set sticky header menu color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:517
+msgid "Set sticky header menu hover color."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:263
+msgid "Set your google map api key"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:799
+msgid "Set your woocommerce product column."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:299
+msgid "Set youtube video id."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:831
+msgid "Shop page title on/off"
+msgstr ""
+
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:188
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:284
+msgid "Show Icon"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:675
+msgid "Show Share Icons"
+msgstr ""
+
+#. %d: total results
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hoskia-widgets-reg.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:660
+msgid "Single post title display position"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:462
+msgid "Single Slider Background Image"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:320
+msgid "Single Slider Overlay"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:464
+msgid "SKU"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:72
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:72
+msgid "Slide"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:166
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:182
+msgid "Slider"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:508
+msgid "Slider Image"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:274
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:417
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:319
+msgid "Slider Wrapper Overlay"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:451
+msgid "Slider {#}"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:158
+msgid "Slider/Page Header Active"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:608
+msgid "Small Title"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:972
+msgid "Social"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:684
+msgid "social share box show/hide"
+msgstr ""
+
+#: templates/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:479
+msgid "Sticky header Menu Background"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:291
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:509
+msgid "Sticky Menu Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:516
+msgid "Sticky Menu Hover Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:650
+msgid "Sub Title"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Submit"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:944
+msgid "Subscribe"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:205
+msgid "Switch On to Display back to top button."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:406
+msgid "Switch on to display header shopping cart."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:341
+msgid "Switch on to display header social media."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:350
+msgid "Switch on to display header top contact."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:334
+msgid "Switch on to display header top."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:198
+msgid "Switch On to Display Preloader."
+msgstr ""
+
+#: inc/support-functions.php:78
+msgid "Tag :"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:447
+msgid "Tags"
+msgstr ""
+
+#. Name of the template
+msgid "Template Builder"
+msgstr ""
+
+#. Name of the template
+msgid "Template Coming Soon"
+msgstr ""
+
+#. Name of the template
+msgid "Template WHMCS"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1416
+msgid "Testing filter hook!"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:353
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:931
+msgid "Text Color"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:326
+msgid "Text Logo"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1084
+msgid "Text, number, email or others"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1326
+msgid "The compiler hook has run!"
+msgstr ""
+
+#: inc/hoskia-woo-functions.php:290
+msgid "The product is already in the wishlist!"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:170
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:175
+msgid "Theme Information 2"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeLooks"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:158
+#: inc/hoskia-option-slide-add-filed.php:243
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:469
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:629
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:158
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:254
+msgid "Title"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:433
+msgid "To active autoplay check this checkbox."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:426
+msgid "To active mouse drag check this checkbox."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:440
+msgid "To active slider nav check this checkbox."
+msgstr ""
+
+#: templates/header-menu.php:108
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-meta/hoskia-config.php:136
+msgid "Top and Bottom Padding"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:985
+msgid "Twitter"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:216
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:237
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:685
+msgid "Uncheck to hide social share-box in single post view"
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:139
+#: inc/hoskia-option-slide-add-filed.php:231
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:139
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:242
+msgid "Upload"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:435
+msgid "Upload header login button icon ( recommendation png format )."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:416
+msgid "Upload your cart icon for header ( recommendation png format )."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:285
+msgid "Upload your site logo for header ( recommendation png format )."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:293
+msgid "Upload your site logo for sticky header ( recommendation png format )."
+msgstr ""
+
+#: inc/hoskia-option-slide-add-filed.php:196
+#: inc/hoskia-option-slide-add-filed.php:277
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:207
+#: inc/hoskia-framework/redux-custom-field/hoskia-option-slide-add-field.php:301
+msgid "URL"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:832
+msgid "Use switch to show or hide WooCommerce shop page title ."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Very poor"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1009
+msgid "Vimeo"
+msgstr ""
+
+#: comments.php:55
+msgid "Website"
+msgstr ""
+
+#: comments.php:58
+msgid "What&rsquo;s happening in your mind about this post !"
+msgstr ""
+
+#. 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hoskia-widgets-reg.php:37
+msgid "Woo Page Sidebar"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:91
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:97
+msgid "WooCommerce Compare"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:745
+msgid "Woocommerce Page"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:109
+msgid "WooCommerce Quick View"
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:66
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:327
+msgid ""
+"Write your logo text use as logo ( You can use span tag for text color )."
+msgstr ""
+
+#: inc/hoskia-framework/plugins-activation/hoskia-active-plugins.php:103
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: comments.php:61
+msgid "Your Comment *"
+msgstr ""
+
+#: inc/support-functions.php:115
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1356
+msgid "your custom error message"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:1361
+msgid "your custom warning message"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Your review"
+msgstr ""
+
+#: inc/hoskia-framework/hoskia-options/hoskia-option.php:997
+msgid "Youtube"
+msgstr ""

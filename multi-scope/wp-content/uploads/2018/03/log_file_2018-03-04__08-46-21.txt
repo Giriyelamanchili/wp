@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Hoskia Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://themelooks.net/demo/hoskia
+Data file = /home/themxkku/public_html/demo/hoskia/wp-content/themes/hoskia/inc/hoskia-framework/demo-data/hoskia-demo.xml
+Widget file = /home/themxkku/public_html/demo/hoskia/wp-content/themes/hoskia/inc/hoskia-framework/demo-data/hoskia-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+hoskia_opt -> /home/themxkku/public_html/demo/hoskia/wp-content/themes/hoskia/inc/hoskia-framework/demo-data/redux_options_demo_vr1.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+ssdhost-post-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Archives - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+ssdhost-page-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Audio - Audio Widget - Imported to Inactive
+Image - Image Widget - Imported to Inactive
+Gallery - Gallery - Imported to Inactive
+Categories - No Title - Imported to Inactive
+
+ssdhost-woo-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Active Product Filters - Active filters - Imported to Inactive
+Filter Products by Price - Filter by price - Imported to Inactive
+Filter Products by Rating - Average rating - Imported to Inactive
+Product Tag Cloud - Product tags - Imported to Inactive
+Recent Viewed Products - Recently Viewed Products - Imported to Inactive
+Recent Product Reviews - Recent reviews - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Products by Rating - Top rated products - Imported to Inactive
+Product Search - No Title - Imported to Inactive
+Filter Products by Attribute - Filter by - Imported to Inactive
+
+Footer Two : 
+
+Navigation Menu - Useful Links - Imported
+
+Footer Three : 
+
+Navigation Menu - Services - Imported
+
+Max Mega Menu Widgets : 
+
+Image - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: hoskia_opt finished successfully!
+
+---pt-ocdi/after_import---
+

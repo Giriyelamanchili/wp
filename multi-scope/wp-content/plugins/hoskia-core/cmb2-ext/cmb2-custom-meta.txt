@@ -1,0 +1,19 @@
+$page_metabox->add_field( array(
+	'name'        => esc_html__('Page Header Switcher', 'bulkdomain'),
+	'id'	  => $prefix . 'switcher',
+	'desc'        => esc_html__('Show or hide Page Header Area.','bulkdomain'),	    
+	'type'    => 'switch',
+	'default'    => 1,
+	'label'    => array('on'=> 'Show', 'off'=> 'Hide') //default On, Off
+) );
+
+$page_metabox->add_field( array(
+		'name'    => esc_html__( 'Opacity', 'bulkdomain' ),
+		'id'      => $prefix . 'page_bg_opacity',
+		'type'        => 'own_slider',
+		'min'         => '0',
+		'max'         => '1',
+		'step'        => '0.1',
+		'default'     => '0', // start value
+		'value_label' => 'Value:',
+	) );

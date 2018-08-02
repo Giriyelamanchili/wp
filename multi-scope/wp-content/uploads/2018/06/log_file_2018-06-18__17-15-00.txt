@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Hoskia Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://oxfab2bsolutions.com/multi-scope
+Data file = /home/oxfadxba/public_html/multi-scope/wp-content/themes/hoskia/inc/hoskia-framework/demo-data/hoskia-demo.xml
+Widget file = /home/oxfadxba/public_html/multi-scope/wp-content/themes/hoskia/inc/hoskia-framework/demo-data/hoskia-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+hoskia_opt -> /home/oxfadxba/public_html/multi-scope/wp-content/themes/hoskia/inc/hoskia-framework/demo-data/redux_options_demo_vr1.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Imported
+Categories - No Title - Imported
+Thumbnail Recent Post - Recent Post - Imported
+Find Us On - Find Us On - Imported
+Archives - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+
+Woo Page Sidebar : 
+
+Product Search - No Title - Imported
+Product Categories - Product categories - Imported
+Product Tag Cloud - Product tags - Imported
+
+Footer One : 
+
+About Widget - No Title - Imported
+Find Us On - No Title - Imported
+
+Footer Two : 
+
+Thumbnail Recent Post - Latest News - Imported
+
+Footer Three : 
+
+Navigation Menu - Useful Links - Imported
+
+Footer Four : 
+
+Subscribe - Subscribe - Imported
+
+Max Mega Menu Widgets : 
+
+Image - No Title - Imported
+Image - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: hoskia_opt finished successfully!
+
+---pt-ocdi/after_import---
+
